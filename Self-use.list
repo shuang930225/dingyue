@@ -1,6 +1,9 @@
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN,push.apple.com
-DOMAIN,mesu.apple.com
-DOMAIN,gs-loc.apple.com
+DOMAIN-SUFFIX,rsshub.app,Proxy
+DOMAIN-SUFFIX,dian115.com,Proxy
+DOMAIN-SUFFIX,msub.xn--m7r52rosihxm.com,Proxy
+DOMAIN-SUFFIX,viplee.cc,Proxy
+DOMAIN,pan1.me,Proxy
+DOMAIN-SUFFIX,111666.best,Proxy
+DOMAIN-SUFFIX,hostloc.com,Proxy
+DOMAIN-SUFFIX,nodeseek.com,Proxy
+DOMAIN,telegraph-pic.pages.dev,Proxy
