@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,hostloc.com,Proxy
 DOMAIN-SUFFIX,nodeseek.com,Proxy
 DOMAIN,telegraph-pic.pages.dev,Proxy
 DOMAIN-SUFFIX,gmnlee.com,Proxy
+DOMAIN-SUFFIX,MSMP.ABCHINA.COM.CN,REJECT
