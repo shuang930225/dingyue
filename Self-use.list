@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,nodeseek.com,Proxy
 DOMAIN,telegraph-pic.pages.dev,Proxy
 DOMAIN-SUFFIX,gmnlee.com,Proxy
 DOMAIN-SUFFIX,msmp.abchina.com.cn,REJECT
+DOMAIN-SUFFIX,hdhive.com,Proxy
+DOMAIN-SUFFIX,yfamilys.com,Proxy
